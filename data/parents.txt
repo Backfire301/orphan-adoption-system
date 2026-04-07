@@ -1,0 +1,3 @@
+parent 1 Female 1999 12 19 single,worker,colege,lmusim,
+parent 2 Male 1980 12 30 married,dead,wow,jesuss christ,
+parent 3 Female 1999 12 19 marrie3,sex worker,high school,christian,
